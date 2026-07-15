@@ -46,3 +46,11 @@ header {
     font-weight: bold;
     color: #333;
 }
+.resume-section {
+    margin-top: 20px;
+}
+.section-title {
+    font-size: 1.5rem;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 1rem;
+}
